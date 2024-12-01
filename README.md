@@ -2,6 +2,10 @@
 
 A modern React-based application for managing and sharing text snippets with ease. Built with Vite, Tailwind CSS, and Redux Toolkit, this app offers robust functionalities with a better  user interface.
 
+## 🚀 Live Project
+Check out the live version of the app here: [PasteManager](https://paste-manager-2.vercel.app/)  
+Explore the features and experience the seamless interface directly in your browser!
+
 ## **Features**
 - **Vite**: Ultra-fast development and build tooling.
 - **React**: Latest version for building modern UI components.
